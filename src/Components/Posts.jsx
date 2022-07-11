@@ -12,7 +12,7 @@ import {
   Typography,
 } from "@mui/material";
 
-const Posts = (props) => {
+const Posts = () => {
   return (
     <div>
       <Card sx={{m:5}}>
