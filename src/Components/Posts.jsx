@@ -34,7 +34,7 @@ const Posts = () => {
           component="img"
           height="20%"
           // height="400px"
-          image="https://source.unsplash.com/collection/[collection_id]/[100]x[50]"
+          image="https://images.unsplash.com/photo-1649930536248-df58fd1f54f8?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Paella dish"
         />
         <CardContent>
